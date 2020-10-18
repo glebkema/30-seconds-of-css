@@ -43,6 +43,7 @@ Creates a scrollable container that will snap on elements when scrolling.
 
 .horizontal-snap img {
   width: 180px;
+  max-width: none;
   object-fit: contain;
   border-radius: 1rem;
 }
